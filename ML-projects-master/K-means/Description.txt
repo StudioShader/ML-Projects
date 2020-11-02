@@ -1,0 +1,3 @@
+Run clustering.py file to see result
+
+Drawing implemented on stddraw library

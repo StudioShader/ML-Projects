@@ -1,0 +1,7 @@
+SVM Algorithm
+N - lines quantity
+
+Features matrix contain in each lines N*3 signs of images in format
+[average_RED_1 average_GREEN_1 average_BLUE_1 .... average_RED_N average_GREEN_N average_BLUE_N]
+
+processed file contains in processed data folder

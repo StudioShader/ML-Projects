@@ -1,0 +1,1 @@
+This folder contain generated right data to compete Ant-colony algorithm with Genetic algorithm and another tests

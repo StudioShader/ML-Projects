@@ -1,0 +1,7 @@
+This is implmentation of Ant-colony algorithm used to solve TSP
+Run Ant-colony.py to see result
+
+Group project based on ppoffice implementation
+All right reserved
+
+Soauthors: Helmyanov Artem, Ogloblin Ivan, Michail Ledovskih, Maksim Dzubenko, Aleksey Suslov, Valeriy Bukanov

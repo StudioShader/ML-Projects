@@ -1,0 +1,2 @@
+Name decoding
+data(lines quantity)N(processing option: sq - square)(summation restrictions: all, M - lower border)

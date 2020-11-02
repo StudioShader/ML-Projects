@@ -1,0 +1,6 @@
+This is implementation of EA (Genetic algorithm) for solve TSP
+Run GeneticAlgorithm.py to see result
+
+Genetic and Ant-colony result file contain characteristics of Algorithms on data with known answers
+
+GA_AC_results file contain comparison of two algorithm and conclusions about them
